@@ -8,5 +8,6 @@ void afficher()
 int main (void)
 {
     afficher();
+    afficher();
     return 0;
 }
