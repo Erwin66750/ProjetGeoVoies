@@ -1,5 +1,7 @@
 #include <iostream>
 
+// un commentaire
+
 void afficher()
 {
     std::cout << "Hello !" << std::endl;
